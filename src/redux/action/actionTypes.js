@@ -1,0 +1,2 @@
+
+export const SELECTED_SONG = 'SELECTED_SONG';
